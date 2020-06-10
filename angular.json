@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Routing-WorkThrough"
+    }
+  },
+  "defaultProject": "Routing-WorkThrough",
+  "cli": {
+    "analytics": false
+  }
 }
